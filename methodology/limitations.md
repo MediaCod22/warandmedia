@@ -1,70 +1,70 @@
-# Limitations and Ethical Disclaimer
+# Ограничения и этический дисклеймер
 
-## Methodological Limitations
+## Методологические ограничения
 
-### 1. Sample Size
-Current dataset contains **15 illustrative events** (5 per conflict). This is not an exhaustive corpus but a demonstrative sample designed to establish the structural influence framework. Full-scale implementation would require systematic PRISMA-style screening of hundreds of events.
+### 1. Объём выборки
+Текущий датасет содержит **15 иллюстративных событий** (5 по каждому конфликту). Это не исчерпывающий корпус, а демонстративная выборка, предназначенная для обоснования фреймворка структурного влияния. Полномасштабная реализация требовала бы систематического скрининга сотен событий по протоколу PRISMA.
 
-### 2. Attribution Problem
-Isolating media influence from military, political, economic, and social factors remains methodologically challenging. The causal claims in this dataset are **interpretative** rather than statistically proven. Each event represents a plausible mechanism, not an experimentally verified cause.
+### 2. Проблема атрибуции
+Выделение медиавлияния среди военных, политических, экономических и социальных факторов остаётся методологически сложной задачей. Причинные утверждения в настоящем датасете являются **интерпретативными**, а не статистически доказанными. Каждое событие представляет плаузибельный механизм, а не экспериментально верифицированную причину.
 
-### 3. Source Bias
-Sources are predominantly in English and Russian, reflecting researcher language capabilities. Arabic, Hebrew, Persian, and Ukrainian sources are underrepresented. This may skew toward internationally visible events and miss locally significant cases.
+### 3. Смещение источников
+Источники преимущественно на английском и русском языках, что отражает языковые возможности исследователя. Арабские, иврит, персидские и украинские источники недостаточно представлены. Это может смещать выборку в сторону международно видимых событий и упускать локально значимые случаи.
 
-### 4. Temporal Lag
-Media influence effects may manifest with delay (days, weeks, or months). The dataset codes immediate or short-term links, potentially missing longer-term structural effects.
+### 4. Временной лаг
+Эффекты медиавлияния могут проявляться с задержкой (дни, недели или месяцы). Датасет кодирует непосредственные или краткосрочные связи, потенциально упуская долгосрочные структурные эффекты.
 
-### 5. Selection Bias
-Documented events tend to be highly visible or viral. Quiet, gradual media influences (e.g., sustained narrative shifts) are underrepresented.
+### 5. Смещение отбора
+Документированные события склонны быть высоковидимыми или вирусными. Тихие, постепенные медиавлияния (например, устойчивые сдвиги нарративов) недостаточно представлены.
 
-### 6. Structural vs. Agent Ambiguity
-Distinguishing structural platform effects from intentional actor strategies is analytically complex. Some events may involve both components in ways difficult to separate.
+### 6. Неоднозначность структурного vs. агентского
+Разграничение структурных эффектов платформы и намеренных стратегий акторов является аналитически сложным. Некоторые события могут включать оба компонента, трудно разделимые между собой.
 
-## Ethical Disclaimer
+## Этический дисклеймер
 
-### Data Sources
-This repository contains **only publicly available information**:
-- News reports from established outlets (Reuters, BBC, Al Jazeera, etc.)
-- Academic publications
-- OSINT organization outputs
-- International organization documents
-- Social media posts that were publicly broadcast
+### Источники данных
+Настоящий репозиторий содержит **исключительно общедоступную информацию**:
+- Новостные репортажи устоявшихся изданий (Reuters, BBC, Al Jazeera и др.)
+- Академические публикации
+- Материалы OSINT-организаций
+- Документы международных организаций
+- Посты в социальных медиа, опубликованные в открытом доступе
 
-### What This Repository Does NOT Contain
-- ❌ Classified military information
-- ❌ Personal data of non-public individuals
-- ❌ Graphic or violent imagery
-- ❌ Content inciting hatred or violence
-- ❌ Closed-source intelligence
-- ❌ Information requiring paid subscription
+### Чего НЕ содержит данный репозиторий
+- Секретной военной информации
+- Персональных данных непубличных лиц
+- Контента, подстрекающего к насилию или ненависти
+- Графических материалов
+- Информации закрытого доступа
+- Информации, требующей платной подписки
 
-### Positionality Statement
-The researcher (S.V. Vodopetov) acknowledges:
-- Russian citizenship and academic affiliation
-- Potential bias toward Russian-language sources
-- Interest in demonstrating media system as objective actor (not merely propaganda tool)
-- Commitment to documenting all three conflicts with equivalent analytical rigor
+### Позиционность исследователя
+Исследователь (С.В. Водопетов) декларирует:
+- Гражданство РФ и академическую аффилиацию
+- Потенциальное смещение в сторону русскоязычных источников
+- Интерес к демонстрации медиасистемы как объективного актора (не только инструмента пропаганды)
+- Приверженность эквивалентной аналитической строгости при документировании всех трёх конфликтов
 
-### Responsible Data Science Principles
-1. **Do No Harm:** No information is included that could endanger individuals
-2. **Transparency:** All sources are cited with URL stubs or identifiers
-3. **Reproducibility:** Dataset structure enables independent verification
-4. **Contextualization:** Events are framed within broader conflict dynamics, not isolated
-5. **Anonymization:** No identifying information about combatants or civilians
+### Принципы ответственной науки о данных
+1. **Не навреди:** Не включается информация, способная подвергнуть опасности конкретных лиц
+2. **Прозрачность:** Все источники цитируются с URL-заглушками или идентификаторами
+3. **Воспроизводимость:** Структура датасета обеспечивает независимую верификацию
+4. **Контекстуализация:** События рассматриваются в рамках более широкой динамики конфликта, а не изолированно
+5. **Анонимизация:** Отсутствует идентифицирующая информация о военнослужащих или гражданских лицах
 
-### Use Limitations
-This dataset is intended for:
-- Academic research on media and conflict
-- Journalism education
-- Policy analysis
-- Methodological development
+### Ограничения использования
+Настоящий датасет предназначен для:
+- Академических исследований медиа и конфликтов
+- Преподавания журналистики
+- Политико-аналитической работы
+- Методологического развития
 
-It is **NOT intended for**:
-- Military planning or targeting
-- Intelligence operations
-- Propaganda production
-- Commercial exploitation
+Он **НЕ предназначен для**:
+- Военного планирования или наведения
+- Разведывательных операций
+- Производства пропаганды
+- Коммерческой эксплуатации
 
 ---
 
-*Limitations version: 1.0 | Created: 2026-05-14*
+*Версия ограничений: 1.0 | Создано: 14 мая 2026*

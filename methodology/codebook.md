@@ -1,161 +1,161 @@
-# Codebook: Coding Media Events in Armed Conflicts
+# Кодировочная книга: кодирование медиасобытий в вооружённых конфликтах
 
-## Overview
+## Общее описание
 
-This codebook provides operational definitions for coding media events as objective actors in armed conflicts. The coding focuses on **structural characteristics** of media systems rather than subjective intentions.
+Настоящая кодировочная книга предоставляет операциональные определения для кодирования медиасобытий как объективных акторов в вооружённых конфликтах. Кодирование фокусируется на **структурных характеристиках** медиасистем, а не на субъективных намерениях.
 
-## Core Distinction: Structural vs. Agent Influence
+## Ключевое различие: структурное vs. агентское влияние
 
-### Structural Influence (Objective Actor)
-The media system influences conflict outcomes through:
-- **Platform architecture** (one-to-many, peer-to-peer, broadcast)
-- **Algorithmic mechanisms** (recommendation, amplification, filtering)
-- **Network topology** (decentralized, hierarchical, mesh)
-- **Technical affordances** (real-time, geolocation, encryption)
-- **Speed and scale** (viral spread, livestreaming, global reach)
+### Структурное влияние (объективный актор)
+Медиасистема влияет на исход конфликта через:
+- **Архитектуру платформы** (один-ко-многим, равный-равному, трансляция)
+- **Алгоритмические механизмы** (рекомендации, усиление, фильтрация)
+- **Сетевую топологию** (децентрализованная, иерархическая, ячеистая)
+- **Технологические аффордансы** (реальное время, геолокация, шифрование)
+- **Скорость и масштаб** (вирусное распространение, прямые трансляции, глобальный охват)
 
-### Agent Influence (Subjective Actor)
-Traditional propaganda or information operations where:
-- State or organization intentionally crafts message
-- Influence depends on content strategy, not platform characteristics
-- Effectiveness relies on persuasion, not structural enabling
+### Агентское влияние (субъективный актор)
+Традиционная пропаганда или информационные операции, где:
+- Государство или организация намеренно создаёт сообщение
+- Влияние зависит от стратегии контента, а не от характеристик платформы
+- Эффективность опирается на убеждение, а не на структурное обеспечение
 
-**Rule:** Each event must demonstrate **structural component** to be included. Pure propaganda without structural analysis is excluded.
+**Правило:** Каждое событие должно демонстрировать **структурный компонент** для включения. Чистая пропаганда без структурного анализа исключается.
 
-## KPI Category Coding
+## Кодирование категорий KPI
 
-### Category 1: Humanitarian Information
-**Code:** 1
-**Definition:** Media event documents or draws attention to civilian harm, infrastructure damage, refugee flows, or humanitarian needs.
+### Категория 1: Гуманитарная информация
+**Код:** 1
+**Описание:** Медиасобытие документирует или привлекает внимание к гражданским потерям, разрушению инфраструктуры, потокам беженцев или гуманитарным потребностям.
 
-**Indicators:**
-- Civilian casualty documentation
-- Infrastructure destruction footage
-- Refugee/displacement reporting
-- Aid worker or journalist presence
-- Medical facility damage
+**Индикаторы:**
+- Документация гражданских потерь
+- Кадры разрушения инфраструктуры
+- Репортажи о беженцах / переселении
+- Присутствие гуманитарных работников или журналистов
+- Повреждение медицинских учреждений
 
-**Structural Features to Record:**
-- Mobile/portable broadcast technology
-- Livestreaming capability
-- NGO or institutional distribution networks
-- Platform algorithmic amplification of emotionally charged content
-
----
-
-### Category 2: Enemy Disorientation
-**Code:** 2
-**Definition:** Media event creates information confusion, vacuum, or decision paralysis for opposing forces.
-
-**Indicators:**
-- Real-time position or movement revelation
-- Strategic surprise reduction
-- Command and control degradation
-- Information asymmetry creation
-- OSINT-based battlefield transparency
-
-**Structural Features to Record:**
-- Real-time data transmission (ADS-B, satellite, IoT)
-- Crowd-sourced or collaborative intelligence platforms
-- Open data architecture (flight trackers, mapping tools)
-- Network self-organization (viral geolocation)
+**Структурные характеристики для фиксации:**
+- Мобильные / портативные трансляционные технологии
+- Возможность прямой трансляции
+- Сети НПО или институциональные сети распространения
+- Алгоритмическое усиление эмоционально насыщенного контента платформами
 
 ---
 
-### Category 3: POW/Surrender Channels
-**Code:** 3
-**Definition:** Media event creates communication pathway for capitulation, surrender, or prisoner exchange.
+### Категория 2: Дезориентация противника
+**Код:** 2
+**Описание:** Медиасобытие создаёт информационную путаницу, вакуум или паралич принятия решений для противоборствующих сил.
 
-**Indicators:**
-- Surrender procedure documentation
-- Safe passage communication
-- Prisoner treatment visibility
-- Humanitarian corridor information
+**Индикаторы:**
+- Раскрытие позиций или перемещений в реальном времени
+- Снижение эффекта стратегической неожиданности
+- Деградация командования и управления
+- Создание информационной асимметрии
+- Прозрачность поля боя на основе OSINT
 
-**Structural Features to Record:**
-- Encrypted communication platforms
-- Direct messaging architecture
-- Broadcast reach to isolated units
-- Documentation as protection mechanism
-
----
-
-### Category 4: Societal Mobilization
-**Code:** 4
-**Definition:** Media event engages domestic audience, affects morale, recruitment, or political support.
-
-**Indicators:**
-- Nationalist content amplification
-- Recruitment messaging
-- Casualty or heroism framing
-- Domestic political discourse shaping
-- Economic mobilization appeals
-
-**Structural Features to Record:**
-- State-controlled broadcast infrastructure
-- Algorithmic amplification of engagement content
-- Platform architecture enabling emotional contagion
-- Reach to remote or disconnected populations
+**Структурные характеристики для фиксации:**
+- Передача данных в реальном времени (ADS-B, спутники, IoT)
+- Краудсорсинговые или коллаборативные разведывательные платформы
+- Архитектура открытых данных (трекеры полётов, картографические инструменты)
+- Самоорганизация сети (вирусная геолокация)
 
 ---
 
-### Category 5: International Support Formation
-**Code:** 5
-**Definition:** Media event builds coalition of external actors through coverage, framing, or attention management.
+### Категория 3: Каналы сдачи / пленения
+**Код:** 3
+**Описание:** Медиасобытие создаёт коммуникационные пути для капитуляции, сдачи в плен или обмена военнопленными.
 
-**Indicators:**
-- International news pickup
-- Diplomatic pressure creation
-- Sanctions justification
-- Arms supply influence
-- Coalition building or dissolution
+**Индикаторы:**
+- Документация процедур сдачи
+- Коммуникация о безопасном проходе
+- Видимость обращения с пленными
+- Информация о гуманитарных коридорах
 
-**Structural Features to Record:**
-- International news network architecture
-- Social media transnational reach
-- Algorithmic cross-border amplification
-- Livestreaming sustained attention technology
-- Institutional (UN, ICC) broadcasting infrastructure
+**Структурные характеристики для фиксации:**
+- Платформы с шифрованной коммуникацией
+- Архитектура прямых сообщений
+- Трансляционный охват изолированных подразделений
+- Документация как механизм защиты
 
 ---
 
-## Evidence Quality Coding
+### Категория 4: Мобилизация общества
+**Код:** 4
+**Описание:** Медиасобытие вовлекает внутреннюю аудиторию, влияет на моральный дух, мобилизацию и политическую поддержку.
 
-| Code | Level | Criteria |
-|------|-------|----------|
-| V | Verified | Multiple independent sources confirm event and mechanism |
-| P | Probable | Single authoritative source or strong circumstantial evidence |
-| S | Speculative | Plausible but insufficient evidence for definitive claim |
+**Индикаторы:**
+- Усиление националистического контента
+- Мобилизационное сообщение
+- Фрейминг потерь или героизма
+- Формирование внутреннего политического дискурса
+- Апелляции к экономической мобилизации
 
-## Source Type Coding
+**Структурные характеристики для фиксации:**
+- Государственная трансляционная инфраструктура
+- Алгоритмическое усиление вовлекающего контента
+- Архитектура платформы, обеспечивающая эмоциональное заражение
+- Охват отдалённых или изолированных популяций
 
-| Code | Type | Examples |
-|------|------|----------|
-| A | Academic | Google Scholar, CyberLeninka, Scopus |
-| M | Mass Media | Reuters, BBC, Al Jazeera, CNN |
-| T | Think Tank | CSIS, RAND, ISW, Atlantic Council |
+---
+
+### Категория 5: Формирование международной поддержки
+**Код:** 5
+**Описание:** Медиасобытие формирует коалицию внешних акторов через освещение, фрейминг и управление вниманием.
+
+**Индикаторы:**
+- Международное новостное освещение
+- Создание дипломатического давления
+- Обоснование санкций
+- Влияние на поставки вооружений
+- Построение или распад коалиций
+
+**Структурные характеристики для фиксации:**
+- Архитектура международных новостных сетей
+- Трансграничный охват социальных медиа
+- Алгоритмическое международное усиление
+- Технология поддержания устойчивого внимания через прямые трансляции
+- Институциональная трансляционная инфраструктура (ООН, МУС)
+
+---
+
+## Кодирование качества доказательств
+
+| Код | Уровень | Критерии |
+|-----|---------|----------|
+| V | Верифицировано | Множественные независимые источники подтверждают событие и механизм |
+| P | Вероятно | Единственный авторитетный источник или сильные косвенные доказательства |
+| S | Спекулятивно | Плаузибельно, но недостаточно доказательств для окончательного утверждения |
+
+## Кодирование типа источника
+
+| Код | Тип | Примеры |
+|-----|------|---------|
+| A | Академический | Google Scholar, CyberLeninka, Scopus |
+| M | Масс-медиа | Reuters, BBC, Al Jazeera, CNN |
+| T | Аналитический центр | CSIS, RAND, ISW, Atlantic Council |
 | O | OSINT | Bellingcat, CIT, DFR Lab, DeepStateMap |
-| I | International Org | UN, ICC, WHO, UNHCR |
-| N | NGO/Press Freedom | CPJ, RSF, WCK, Amnesty |
-| S | Social Media | Telegram, X, TikTok, Instagram |
+| I | Международная организация | ООН, МУС, ВОЗ, УВКБ ООН |
+| N | НПО / монитор | CPJ, RSF, WCK, Amnesty |
+| S | Социальные медиа | Telegram, X, TikTok, Instagram |
 
-## Coding Procedure
+## Процедура кодирования
 
-1. **Event Identification:** Document media event and conflict event
-2. **Source Verification:** Establish evidence quality level
-3. **Mechanism Tracing:** Identify causal pathway from media to conflict outcome
-4. **Structural Feature Identification:** Determine which media system characteristic enables influence
-5. **KPI Classification:** Assign primary and (if applicable) secondary category
-6. **Quality Check:** Verify that structural component is present (not only agent intention)
+1. **Идентификация события:** Документирование медиасобытия и конфликтного события
+2. **Верификация источника:** Установление уровня качества доказательств
+3. **Трассировка механизма:** Идентификация каузального пути от медиа к конфликтному исходу
+4. **Идентификация структурной характеристики:** Определение, какая характеристика медиасистемы обеспечивает влияние
+5. **Классификация KPI:** Назначение первичной и (при наличии) вторичной категории
+6. **Проверка качества:** Верификация наличия структурного компонента (не только агентского намерения)
 
-## Inter-Coder Reliability
+## Межкодировочная надёжность
 
-Recommended procedure:
-- Two independent coders for sample
-- Cohen's Kappa calculation
-- Consensus sessions for disagreements
-- Final coding by primary researcher
+Рекомендуемая процедура:
+- Два независимых кодировщика для выборки
+- Расчёт каппы Коэна
+- Консенсусные сессии для разногласий
+- Финальное кодирование основным исследователем
 
 ---
 
-*Codebook version: 1.0 | Created: 2026-05-14*
+*Версия кодировочной книги: 1.0 | Создано: 14 мая 2026*

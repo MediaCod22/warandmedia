@@ -1,158 +1,166 @@
-# Media System as a Victory Factor in Armed Conflict
+# Медиасистема как фактор влияния в условиях вооружённых конфликтов
 
-> **Research:** «Медиасистема как фактор победы в современном военном конфликте: парадокс недооценки и инструментализация коммуникаций»
-> 
-> **Author:** Sergey V. Vodopetov, PhD (RUDN University, Moscow)
-> 
-> **ORCID:** [0000-0002-5237-4464](https://orcid.org/0000-0002-5237-4464) | **RSCI ID:** 835749 | **SPIN:** 5530-2581
+> **Исследование:** «Медиасистема как фактор победы в современном военном конфликте: парадокс недооценки и инструментализация коммуникаций»
+>
+> **Автор:** Водопетов С.В., кандидат политических наук (РУДН, Москва)
+>
+> **ORCID:** [0000-0002-5237-4464](https://orcid.org/0000-0002-5237-4464) | **РИНЦ:** 835749 | **SPIN:** 5530-2581
 
 [![Open Science](https://img.shields.io/badge/Open%20Science-FAIR-blue)](https://www.go-fair.org/fair-principles/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## 📖 About This Research
+## 📖 О данном исследовании
 
-This study examines the role of modern media systems in armed conflicts (2023–2026). The central thesis: media communications have transformed from auxiliary information support into a **strategic factor** capable of influencing conflict outcomes on par with conventional weapons.
+Настоящее исследование анализирует роль современных медиасистем в контексте вооружённых конфликтов (2023–2026). Центральный тезис: медиакоммуникации трансформировались из вспомогательного элемента информационного сопровождения в **структурный фактор**, способный влиять на ход конфликта через объективные характеристики медиасистемы (алгоритмы, архитектура платформ, сетевая топология).
 
-### Research Question
+### Исследовательский вопрос
 
-How does the media system function as an **objective actor** in armed conflicts — through structural characteristics (algorithms, platform architecture, network topology) rather than solely through agent intentions (propaganda, intentional information operations)?
+Как медиасистема функционирует как **объективный актор** в вооружённых конфликтах — через структурные характеристики, а не только через намерения агентов (пропаганда, информационные операции)?
 
-### Three Conflicts Analyzed
+### Три конфликта в фокусе анализа
 
-| Conflict | Period | Key Media Events |
-|----------|--------|-----------------|
-| **Russia-Ukraine** | 2023–2026 | Battle of Avdiivka, Kursk raid, 2025 escalation |
-| **Palestine-Israel** | Oct 2023–2026 | October 7 attack, Gaza coverage, global attention surge |
-| **USA-Iran / Middle East** | Apr 2024–2026 | Damascus consulate strike, escalation cycle |
+| Конфликт | Период | Ключевые медиасобытия |
+|----------|--------|----------------------|
+| **СВО** | 2023–2026 | Бои за Авдеевку, Курская операция, эскалация 2025 года |
+| **Ближний Восток** | октябрь 2023–2026 | События 7 октября 2023 года, операция в секторе Газа, глобальное медиавнимание |
+| **Иран — Запад / Ближний Восток** | апрель 2024–2026 | Удар по консульству в Дамаске, цикл эскалации |
 
-### Key Thesis
+### Ключевой тезис
 
-> The media system most often suffers defeat **not from the enemy, but from its own military command**, which continues to perceive media resources as a threat to operational security, a source of leaks, and a tool for revealing secrets.
+> Медиасистема чаще всего функционирует **вопреки, а не благодаря** военному командованию, которое продолжает воспринимать медиаресурс как угрозу оперативной безопасности.
 
-In areas where media can bring maximum benefit — **humanitarian information, enemy disorientation, POW surrender channels, societal mobilization, international support formation** — full communication support is often either not provided at all or viewed as working against interests, because it requires special skills, tools, and thinking alien to classical military planning.
-
----
-
-## 📊 KPI Framework / KPI-фреймворк влияния
-
-Five categories of media system influence on armed conflicts:
-
-| Category | Description | Mechanism |
-|----------|-------------|-----------|
-| **1. Humanitarian Information** | Informing about civilian casualties, infrastructure damage, refugee flows | Creates international pressure, influences humanitarian corridors |
-| **2. Enemy Disorientation** | Information operations targeting opponent's decision-making | Degrades command and control, creates confusion |
-| **3. POW/Surrender Channels** | Creating communication pathways for capitulation | Reduces resistance, saves lives |
-| **4. Societal Mobilization** | Domestic audience engagement and morale | Affects recruitment, support for war effort |
-| **5. International Support Formation** | Building coalition of external actors | Influences sanctions, arms supplies, diplomatic stance |
+В вопросах, где медиа может принести максимальную пользу — **гуманитарное информирование, дезориентация противника, создание каналов сдачи в плен, мобилизация общества, формирование международной поддержки** — полноценное коммуникационное сопровождение зачастую либо не предусматривается, либо рассматривается как работа в противную сторону, поскольку требует особого навыка, инструментария и мышления, чуждого классическому военному планированию.
 
 ---
 
-## 📁 Repository Structure
+## 📊 KPI-фреймворк влияния медиасистемы
+
+Пять категорий влияния медиасистемы на вооружённые конфликты:
+
+| Категория | Описание | Механизм |
+|-----------|----------|----------|
+| **1. Гуманитарная информация** | Информирование о гражданских потерях, разрушении инфраструктуры, потоках беженцев | Создаёт международное давление, влияет на гуманитарные коридоры |
+| **2. Дезориентация противника** | Информационные операции, нацеленные на принятие решений противником | Деградирует командование и управление, создаёт путаницу |
+| **3. Каналы сдачи / пленения** | Создание коммуникационных путей для капитуляции | Снижает сопротивление, сохраняет жизни |
+| **4. Мобилизация общества** | Вовлечение внутренней аудитории, поддержание морального духа | Влияет на мобилизацию, поддержку военных действий |
+| **5. Формирование международной поддержки** | Построение коалиции внешних акторов | Влияет на санкции, поставки оружия, дипломатическую позицию |
+
+---
+
+## 📁 Структура репозитория
 
 ```
 warandmedia/
-├── README.md                          # This file
-├── CITATION.cff                       # Citation metadata
+├── README.md                          # Настоящий файл
+├── CITATION.cff                       # Метаданные для цитирования
 ├── LICENSE                            # CC BY 4.0
-│
 ├── data/
-│   ├── events_master.csv              # Master dataset of media events
-│   ├── events_russia_ukraine.csv      # Russia-Ukraine conflict events
-│   ├── events_palestine_israel.csv    # Palestine-Israel conflict events
-│   ├── events_usa_iran.csv            # USA-Iran/Middle East events
-│   └── sources.csv                    # Source registry
-│
+│   └── events_master.csv              # Основной датасет медиасобытий
 ├── methodology/
-│   ├── sampling_protocol.md           # Sampling design and unit of analysis
-│   ├── kpi_framework.md               # Five-category influence framework
-│   ├── inclusion_exclusion_criteria.md # PRISMA-style criteria
-│   ├── codebook.md                    # Coding definitions
-│   └── limitations.md                 # Limitations and ethical disclaimer
-│
+│   ├── sampling_protocol.md           # Протокол выборки
+│   ├── kpi_framework.md               # Пятикатегориальный фреймворк
+│   ├── codebook.md                    # Кодировочная книга
+│   └── limitations.md                 # Ограничения и этический дисклеймер
 ├── results/
-│   ├── key_findings.md                # Summary of quantitative findings
-│   ├── conflict_comparison.md         # Cross-conflict analysis
-│   └── historiography.md            # Historical context (WWI, WWII)
-│
+│   ├── key_findings.md                # Ключевые количественные находки
+│   ├── conflict_comparison.md         # Межконфликтный анализ
+│   └── historiography.md            # Историографический контекст
+├── sources/
+│   └── data_sources.md                # Источники данных (300+ статей)
 └── metadata/
-    ├── CITATION.cff
-    └── dataset_metadata.json
+    └── dataset_metadata.json          # FAIR-совместимые метаданные
 ```
 
 ---
 
-## 🔬 Methodology at a Glance
+## 🔬 Методология в двух словах
 
-### Unit of Analysis
-**Discrete media event** with identifiable influence on military, political, or diplomatic outcome of armed conflict. Each unit records:
-1. Media event — what happened in the media system
-2. Conflict event — what happened in military/political/diplomatic sphere
-3. Causal mechanism linking them
-4. Evidence that influence occurs through **structural characteristics** of media system (objectivity), not agent intentions (subjectivity)
+### Единица анализа
+**Дискретное медиасобытие** с идентифицируемым влиянием на военный, политический или дипломатический исход вооружённого конфликта. Каждая единица фиксирует:
+1. Медиасобытие — что произошло в медиасистеме
+2. Конфликтное событие — что произошло в военной / политической / дипломатической сфере
+3. Каузальный механизм связи между ними
+4. Доказательство того, что влияние осуществляется через **структурные характеристики** медиасистемы (алгоритмы, архитектура экосистемы, сетевая топология), а не исключительно через намерения агентов
 
-### Source Types
-| Type | Examples |
-|------|----------|
-| Academic databases | Google Scholar, CyberLeninka, eLibrary, Scopus |
-| Mass media | Reuters, BBC, Al Jazeera, NPR, CNN, NYT |
-| Think tanks | CSIS, RAND, Atlantic Council, FDD, ISD, ISW |
-| OSINT organizations | Bellingcat, CIT, DFR Lab |
-| International organizations | UN, ICC, WHO, UNHCR |
-| Press freedom monitors | CPJ, RSF, ECPMF |
-| Social media analytics | Telegram channels, X/TikTok/Meta public reports |
+### Типы источников
 
-### Period
-**October 2023 – March 2026**
+| Тип | Примеры |
+|------|---------|
+| Академические базы данных | Google Scholar, CyberLeninka, eLibrary, Scopus |
+| Средства массовой информации | Reuters, BBC, Al Jazeera, NPR, CNN, NYT |
+| Аналитические центры | CSIS, RAND, Atlantic Council, ISW |
+| OSINT-организации | Bellingcat, CIT, DFR Lab |
+| Международные организации | ООН, МУС, ВОЗ, УВКБ ООН |
+| Мониторы свободы прессы | CPJ, RSF, ECPMF |
+| Социальные медиа | Telegram-каналы, публичные отчёты X / TikTok / Meta |
+
+### Временные рамки
+**Октябрь 2023 — март 2026**
 
 ---
 
-## 📊 Data Sample / Пример данных
+## 📊 Пример данных
 
-See `data/events_master.csv` for full dataset. Sample record:
+Полный датасет: `data/events_master.csv`. Пример записи:
 
-| Field | Example |
-|-------|---------|
-| event_id | RU_001 |
-| conflict | Russia-Ukraine |
+| Поле | Пример |
+|------|--------|
+| event_id | СВО_001 |
+| conflict | СВО |
 | date | 2024-02-17 |
-| media_event | Telegram channels report Avdiivka encirclement in real time |
-| conflict_event | Ukrainian forces withdraw from Avdiivka |
-| kpi_category | Enemy Disorientation |
-| mechanism | Real-time OSINT creates information vacuum for Ukrainian command |
-| structural_feature | Platform architecture (Telegram) + personal channels + geolocation |
-| source_url | [Source] |
-| verification_status | Verified via multiple OSINT sources |
+| media_event | Telegram-каналы публикуют данные о окружении Авдеевки в режиме реального времени |
+| conflict_event | Переход контроля над Авдеевкой |
+| kpi_category | Дезориентация противника |
+| mechanism | Оперативный OSINT создаёт информационный вакуум для командования |
+| structural_feature | Архитектура платформы (Telegram) + персональные каналы + геолокация |
+| source_type | OSINT |
+| verification_status | Верифицировано через множественные OSINT-источники |
 
 ---
 
-## 📜 License
+## 📚 Источники данных (300+ статей)
+
+**Полный перечень источников:** [`sources/data_sources.md`](sources/data_sources.md)
+
+Исследование опирается на систематический обзор 300+ публикаций из академических баз данных:
+- **Google Scholar** — 120 статей
+- **CyberLeninka** — 95 статей
+- **eLibrary / РИНЦ** — 60 статей
+- **Scopus** — 30 статей
+- **Дополнительные источники** — 20+ статей
+
+Поисковые строки, протокол отбора и полный список источников доступны в файле `sources/data_sources.md`.
+
+---
+
+## 📜 Лицензия
 
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## 📚 How to Cite
-
-### APA 7
-Vodopetov, S. V. (2025). *Media system as a victory factor in modern armed conflict: The paradox of underestimation and the instrumentalization of communications*. [Journal name]. https://github.com/MediaCod22/warandmedia
+## 📚 Как цитировать
 
 ### ГОСТ
 Водопетов С.В. Медиасистема как фактор победы в современном военном конфликте: парадокс недооценки и инструментализация коммуникаций // [Журнал]. — 2025. — № X. — С. XX–XX.
 
----
-
-## ⚠️ Ethical Disclaimer
-
-This repository documents **openly available information** about media events in armed conflicts. It does **not** contain:
-- Classified military information
-- Personal data of non-public individuals
-- Content inciting violence or hatred
-- Graphic materials
-
-The research follows principles of **responsible data science** and **journalistic ethics**. All sources are publicly accessible without paid subscription.
+### APA 7
+Vodopetov, S. V. (2025). *Media system as a victory factor in modern armed conflict: The paradox of underestimation and the instrumentalization of communications*. [Journal name]. https://github.com/MediaCod22/warandmedia
 
 ---
 
-*Repository created: 2026-05-14 | Open Science compliant | FAIR principles*
+## ⚠️ Этический дисклеймер
+
+Настоящий репозиторий документирует **открытую информацию** о медиасобытиях в вооружённых конфликтах. Он **не содержит**:
+- Секретной военной информации
+- Персональных данных непубличных лиц
+- Контента, подстрекающего к насилию или ненависти
+- Графических материалов
+
+Исследование следует принципам **ответственной науки о данных** и **журналистской этики**. Все источники общедоступны без платной подписки.
+
+---
+
+*Репозиторий создан: 14 мая 2026 | Open Science | FAIR-принципы*

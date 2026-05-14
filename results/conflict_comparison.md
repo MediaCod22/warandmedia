@@ -1,99 +1,99 @@
-# Cross-Conflict Comparison / Сравнительный анализ конфликтов
+# Межконфликтное сравнение
 
-## Overview
+## Общее описание
 
-This analysis compares how media systems function as objective actors across three distinct conflict types: interstate (Russia-Ukraine), asymmetric with global attention (Palestine-Israel), and escalation cycle with state media dominance (USA-Iran/Middle East).
+Настоящий анализ сравнивает функционирование медиасистем как объективных акторов в трёх различных типах конфликтов: межгосударственный (СВО), асимметричный с глобальным вниманием (Ближний Восток) и цикл эскалации с доминированием государственных СМИ (Иран — Запад / Ближний Восток).
 
-## Conflict Characteristics
+## Характеристики конфликтов
 
-| Dimension | Russia-Ukraine | Palestine-Israel | USA-Iran |
-|-----------|---------------|-------------------|----------|
-| Conflict Type | Large-scale interstate | Asymmetric with global attention | Escalation cycle |
-| Media Ecosystem Maturity | High (both sides) | Very high (international) | High (state-controlled) |
-| Primary Media Platform | Telegram | Al Jazeera + social media | Telegram + state broadcast |
-| Information Environment | Relatively transparent | Highly polarized | State-controlled vs. open |
-| International Attention | Sustained high | Intense peaks | Moderate, cyclical |
+| Измерение | СВО | Ближний Восток | Иран — Запад |
+|-----------|-----|----------------|--------------|
+| Тип конфликта | Крупномасштабный межгосударственный | Асимметричный с глобальным вниманием | Цикл эскалации |
+| Зрелость медиаэкосистемы | Высокая (обе стороны) | Очень высокая (международная) | Высокая (государственный контроль) |
+| Основная медиаплатформа | Telegram | Al Jazeera + социальные медиа | Telegram + государственное вещание |
+| Информационная среда | Относительно прозрачная | Высоко поляризованная | Государственный контроль vs. открытая |
+| Международное внимание | Устойчиво высокое | Интенсивные пики | Умеренное, циклическое |
 
-## Media System Roles by Conflict
+## Роли медиасистемы по конфликтам
 
-### Russia-Ukraine: Transparency as Tactical Factor
+### СВО: прозрачность как тактический фактор
 
-**Key Mechanism:** Information transparency degrades operational security
+**Ключевой механизм:** информационная прозрачность снижает оперативную безопасность
 
-- Telegram channels reveal troop movements in real time
-- DeepStateMap creates collaborative battlefield intelligence
-- OSINT (Bellingcat, CIT) verifies claims independently
-- Both sides use same platforms → symmetric information environment
+- Telegram-каналы раскрывают перемещения в реальном времени
+- DeepStateMap создаёт коллаборативную разведку поля боя
+- OSINT (Bellingcat, CIT) верифицирует заявления независимо
+- Обе стороны используют одни платформы → симметричная информационная среда
 
-**Structural Feature:** Platform architecture enables peer-to-peer intelligence that bypasses traditional military information control
+**Структурная характеристика:** архитектура платформы обеспечивает равноправную разведку, обходящую традиционное военное информационное управление
 
-**KPI Distribution:**
-- Enemy Disorientation: 60%
-- Societal Mobilization: 40%
-- International Support: 20%
-
----
-
-### Palestine-Israel: Global Attention as Diplomatic Leverage
-
-**Key Mechanism:** Sustained international coverage creates diplomatic pressure
-
-- Al Jazeera 24/7 coverage maintains global attention
-- Social media campaigns (#AllEyesOnRafah) create viral pressure
-- Livestreamed legal proceedings (ICJ) institutionalize media attention
-- Journalist presence creates accountability mechanism
-
-**Structural Feature:** International news network architecture + algorithmic amplification enables sustained global attention that outlasts news cycle
-
-**KPI Distribution:**
-- International Support Formation: 60%
-- Humanitarian Information: 40%
-- Societal Mobilization: 20%
+**Распределение KPI:**
+- Дезориентация противника: 60%
+- Мобилизация общества: 40%
+- Международная поддержка: 20%
 
 ---
 
-### USA-Iran / Middle East: State Control vs. Open Data Tension
+### Ближний Восток: глобальное внимание как дипломатический рычаг
 
-**Key Mechanism:** State-platform integration competes with open tracking
+**Ключевой механизм:** устойчивое международное освещение создаёт дипломатическое давление
 
-- IRGC-affiliated channels broadcast state narrative
-- Flight trackers (FlightRadar24) remove strategic surprise
-- State broadcast infrastructure controls domestic narrative
-- Civilian smartphone documentation creates transparency
+- Al Jazeera обеспечивает круглосуточное освещение и поддерживает глобальное внимание
+- Кампании в социальных медиа (#AllEyesOnRafah) создают вирусное давление
+- Транслируемые юридические процедуры (МУС) институционализируют медиавнимание
+- Присутствие журналистов создаёт механизм подотчётности
 
-**Structural Feature:** Tension between state-controlled broadcast architecture and open data platforms (flight tracking, social media)
+**Структурная характеристика:** архитектура международных новостных сетей + алгоритмическое усиление обеспечивают устойчивое глобальное внимание, переживающее новостной цикл
 
-**KPI Distribution:**
-- Enemy Disorientation: 50%
-- Societal Mobilization: 50%
-- Humanitarian Information: 25%
-
----
-
-## Comparative Table: Media System as Objective Actor
-
-| Feature | Russia-Ukraine | Palestine-Israel | USA-Iran |
-|---------|---------------|-------------------|----------|
-| Platform enabling influence | Telegram (symmetric) | Al Jazeera + social media | Telegram + state broadcast |
-| Who controls narrative? | No one (decentralized) | No one (international fragmented) | State ( Iran) / Open (global) |
-| Structural advantage | Information transparency | Attention sustainability | Narrative control vs. open verification |
-| Risk for military | Operational security loss | Diplomatic pressure | Strategic surprise removal |
-| Media system role | Intelligence equalizer | Diplomatic amplifier | Narrative battlefield |
-
-## Key Comparative Finding
-
-> **Across all three conflicts, the media system functions as an objective actor through different structural mechanisms:**
-> - **Russia-Ukraine:** Platform architecture creates transparency that degrades operational security
-> - **Palestine-Israel:** International network architecture sustains attention beyond natural news cycle
-> - **USA-Iran:** Tension between state-controlled and open data architectures creates competing information environments
-
-## Implications for Media Theory
-
-1. **Platform architecture matters more than content:** The same Telegram channels function differently depending on conflict context
-2. **International vs. domestic attention are structurally different phenomena:** Al Jazeera's architecture enables sustained attention; Telegram's enables real-time intelligence
-3. **State control is structurally limited:** Even state-controlled media competes with open data platforms that enable independent verification
-4. **Media system influence is not universal but context-dependent:** Each conflict reveals different structural mechanisms
+**Распределение KPI:**
+- Формирование международной поддержки: 60%
+- Гуманитарная информация: 40%
+- Мобилизация общества: 20%
 
 ---
 
-*Comparison version: 1.0 | Created: 2026-05-14*
+### Иран — Запад: государственный контроль vs. открытые данные
+
+**Ключевой механизм:** интеграция государства и платформы конкурирует с открытым отслеживанием
+
+- Каналы, аффилированные со структурами, транслируют государственный нарратив
+- Трекеры полётов (FlightRadar24) устраняют стратегический эффект неожиданности
+- Государственная трансляционная инфраструктура контролирует внутренний нарратив
+- Гражданская документация смартфонами создаёт прозрачность
+
+**Структурная характеристика:** напряжение между государственно-контролируемой трансляционной архитектурой и открытыми платформами данных (трекеры полётов, социальные медиа)
+
+**Распределение KPI:**
+- Дезориентация противника: 50%
+- Мобилизация общества: 50%
+- Гуманитарная информация: 25%
+
+---
+
+## Сравнительная таблица: медиасистема как объективный актор
+
+| Характеристика | СВО | Ближний Восток | Иран — Запад |
+|---------|------|----------------|--------------|
+| Платформа, обеспечивающая влияние | Telegram (симметрично) | Al Jazeera + социальные медиа | Telegram + государственное вещание |
+| Кто контролирует нарратив? | Никто (децентрализовано) | Никто (международно фрагментировано) | Государство (Иран) / Открытое (глобально) |
+| Структурное преимущество | Информационная прозрачность | Устойчивость внимания | Контроль нарратива vs. открытая верификация |
+| Риск для военных | Утрата оперативной безопасности | Дипломатическое давление | Устранение стратегического сюрприза |
+| Роль медиасистемы | Эквалайзер разведки | Дипломатический усилитель | Информационное поле боя |
+
+## Ключевое сравнительное обнаружение
+
+> **Во всех трёх конфликтах медиасистема функционирует как объективный актор через различные структурные механизмы:**
+> - **СВО:** архитектура платформы создаёт прозрачность, снижающую оперативную безопасность
+> - **Ближний Восток:** международная архитектура сетей поддерживает внимание за пределами естественного новостного цикла
+> - **Иран — Запад:** напряжение между государственно-контролируемой и открытой архитектурой данных создаёт конкурирующие информационные среды
+
+## Импликации для теории медиа
+
+1. **Архитектура платформы важнее контента:** одни и те же Telegram-каналы функционируют по-разному в зависимости от контекста конфликта
+2. **Международное и внутреннее внимание — структурно разные феномены:** архитектура Al Jazeera обеспечивает устойчивое внимание; архитектура Telegram обеспечивает оперативную разведку
+3. **Государственный контроль структурно ограничен:** даже государственно-контролируемые медиа конкурируют с открытыми платформами данных, обеспечивающими независимую верификацию
+4. **Влияние медиасистемы не универсально, а контекстуально-зависимо:** каждый конфликт раскрывает различные структурные механизмы
+
+---
+
+*Версия сравнения: 1.0 | Создано: 14 мая 2026*

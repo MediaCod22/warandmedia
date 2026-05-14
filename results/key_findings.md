@@ -1,87 +1,87 @@
-# Key Findings / Ключевые находки
+# Ключевые находки
 
-## Quantitative Summary
+## Количественное резюме
 
-| Metric | Value |
-|--------|-------|
-| Total documented events | 15 |
-| Conflicts covered | 3 |
-| Events per conflict | 5 |
-| Primary KPI categories represented | 5/5 (100%) |
-| Structural features identified | 15 |
-| Verification status (Verified) | 14/15 (93%) |
-| Verification status (Probable) | 1/15 (7%) |
+| Метрика | Значение |
+|---------|----------|
+| Всего документированных событий | 15 |
+| Конфликтов в фокусе | 3 |
+| Событий на конфликт | 5 |
+| Представлено первичных категорий KPI | 5/5 (100%) |
+| Идентифицировано структурных характеристик | 15 |
+| Статус верификации (Верифицировано) | 14/15 (93%) |
+| Статус верификации (Вероятно) | 1/15 (7%) |
 
-## KPI Category Distribution
+## Распределение по категориям KPI
 
-| Category | Events | Percentage |
-|----------|--------|------------|
-| Enemy Disorientation (2) | 6 | 40% |
-| International Support Formation (5) | 5 | 33% |
-| Societal Mobilization (4) | 4 | 27% |
-| Humanitarian Information (1) | 3 | 20% |
-| POW/Surrender Channels (3) | 0 | 0% |
+| Категория | Событий | Процент |
+|----------|--------|---------|
+| Дезориентация противника (2) | 6 | 40% |
+| Формирование международной поддержки (5) | 5 | 33% |
+| Мобилизация общества (4) | 4 | 27% |
+| Гуманитарная информация (1) | 3 | 20% |
+| Каналы сдачи / пленения (3) | 0 | 0% |
 
-*Note: Some events have dual coding (primary + secondary KPI). Percentages sum to >100%.*
+*Примечание: некоторые события имеют двойное кодирование (первичный + вторичный KPI). Проценты суммируются >100%.*
 
-## Cross-Conflict Patterns
+## Межконфликтные паттерны
 
-### Russia-Ukraine (RU)
-- **Dominant KPI:** Enemy Disorientation (60% of events)
-- **Key Structural Feature:** Telegram architecture + OSINT platforms
-- **Pattern:** Information transparency as tactical factor
+### СВО
+- **Доминирующий KPI:** Дезориентация противника (60% событий)
+- **Ключевая структурная характеристика:** Архитектура Telegram + OSINT-платформы
+- **Паттерн:** Информационная прозрачность как тактический фактор
 
-### Palestine-Israel (PI)
-- **Dominant KPI:** International Support Formation (60% of events)
-- **Key Structural Feature:** Livestreaming + international news networks
-- **Pattern:** Global attention as diplomatic leverage
+### Ближний Восток
+- **Доминирующий KPI:** Формирование международной поддержки (60% событий)
+- **Ключевая структурная характеристика:** Прямые трансляции + международные новостные сети
+- **Паттерн:** Глобальное внимание как дипломатический рычаг
 
-### USA-Iran / Middle East (UI)
-- **Dominant KPI:** Enemy Disorientation + Societal Mobilization (50% each)
-- **Key Structural Feature:** State-platform integration + open data
-- **Pattern:** State-controlled narrative vs. open tracking tension
+### Иран — Запад
+- **Доминирующий KPI:** Дезориентация противника + Мобилизация общества (по 50%)
+- **Ключевая структурная характеристика:** Интеграция государства и платформы + открытые данные
+- **Паттерн:** Контролируемый государством нарратив vs. открытое отслеживание
 
-## Structural Features Prevalence
+## Распространённость структурных характеристик
 
-| Feature | Events |
+| Характеристика | Событий |
 |---------|--------|
-| Platform architecture (Telegram, X/TikTok) | 10 |
-| Real-time technology (livestream, ADS-B) | 6 |
-| Algorithmic amplification | 5 |
-| Open collaborative platforms (DeepStateMap) | 2 |
-| State broadcast infrastructure | 2 |
-| Network self-organization | 4 |
+| Архитектура платформы (Telegram, X / TikTok) | 10 |
+| Технология реального времени (прямые трансляции, ADS-B) | 6 |
+| Алгоритмическое усиление | 5 |
+| Открытые коллаборативные платформы (DeepStateMap) | 2 |
+| Государственная трансляционная инфраструктура | 2 |
+| Сетевая самоорганизация | 4 |
 
-## Verification Quality
+## Качество верификации
 
-| Status | Count | Percentage |
-|--------|-------|------------|
-| Verified (multiple sources) | 14 | 93% |
-| Probable (single authoritative source) | 1 | 7% |
-| Speculative | 0 | 0% |
+| Статус | Количество | Процент |
+|--------|-------|--------|
+| Верифицировано (множественные источники) | 14 | 93% |
+| Вероятно (единственный авторитетный источник) | 1 | 7% |
+| Спекулятивно | 0 | 0% |
 
-## Source Type Distribution
+## Распределение по типам источников
 
-| Source Type | Events |
+| Тип источника | Событий |
 |-------------|--------|
 | OSINT | 5 |
-| Social Media | 5 |
-| Mass Media | 3 |
-| International Organization | 1 |
-| NGO/Media | 1 |
+| Социальные медиа | 5 |
+| Масс-медиа | 3 |
+| Международная организация | 1 |
+| НПО / Медиа | 1 |
 
-## Temporal Distribution
+## Временное распределение
 
-| Year | Events |
+| Год | Событий |
 |------|--------|
 | 2023 | 2 |
 | 2024 | 11 |
-| 2025-2026 | 2 |
+| 2025–2026 | 2 |
 
-## Key Insight
+## Ключевой инсайт
 
-> **The media system functions as an objective actor primarily through platform architecture and algorithmic mechanisms, not through intentional agent strategies.** In 93% of documented events, the structural feature enabling influence was identifiable independently of who created the content.
+> **Медиасистема функционирует как объективный актор преимущественно через архитектуру платформ и алгоритмические механизмы, а не через намеренные стратегии агентов.** В 93% документированных событий структурная характеристика, обеспечивающая влияние, была идентифицируема независимо от того, кто создал контент.
 
 ---
 
-*Findings version: 1.0 | Created: 2026-05-14*
+*Версия находок: 1.0 | Создано: 14 мая 2026*

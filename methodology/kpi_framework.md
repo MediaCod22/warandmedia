@@ -1,137 +1,141 @@
-# KPI Framework: Five Categories of Media System Influence
+# KPI-фреймворк: пять категорий влияния медиасистемы
 
-## Overview
+## Общее описание
 
-The study identifies five categories through which the media system influences armed conflicts as an **objective actor** — through its structural characteristics (algorithms, platform architecture, network topology) rather than solely through agent intentions (propaganda, information operations).
+Исследование выделяет пять категорий, через которые медиасистема влияет на вооружённые конфликты как **объективный актор** — через структурные характеристики (алгоритмы, архитектура платформ, сетевая топология), а не только через намерения агентов (пропаганда, информационные операции).
 
-## Five Categories
+## Пять категорий
 
-### 1. Humanitarian Information / Гуманитарная информация
+### 1. Гуманитарная информация
 
-**Definition:** Media system informs about civilian casualties, infrastructure damage, refugee flows, and humanitarian needs.
+**Описание:** Медиасистема информирует о гражданских потерях, разрушении инфраструктуры, потоках беженцев и гуманитарных потребностях.
 
-**Structural Features:**
-- Livestreaming technology enables real-time documentation
-- Mobile journalism (smartphone cameras) removes need for professional equipment
-- NGO networks create distribution infrastructure
-- Platform algorithms amplify emotionally charged content
+**Структурные характеристики:**
+- Технология прямой трансляции обеспечивает документирование в реальном времени
+- Мобильная журналистика (камеры смартфонов) устраняет необходимость в профессиональном оборудовании
+- Сети НПО создают инфраструктуру распространения
+- Алгоритмы платформ усиливают эмоционально насыщенный контент
 
-**Conflict Impact:**
-- Creates international pressure for humanitarian corridors
-- Influences sanctions and diplomatic stance
-- Affects domestic support for military action
-- Shapes international public opinion
+**Влияние на конфликт:**
+- Создаёт международное давление для гуманитарных коридоров
+- Влияет на санкции и дипломатическую позицию
+- Влияет на внутреннюю поддержку военных действий
+- Формирует международное общественное мнение
 
-**Example Events:**
-- World Central Kitchen convoy strike documentation (PI_004)
-- Iranian President helicopter crash broadcast (UI_004)
-
----
-
-### 2. Enemy Disorientation / Дезориентация противника
-
-**Definition:** Media system creates information vacuum, confusion, or decision paralysis for opposing forces.
-
-**Structural Features:**
-- Real-time OSINT (Open Source Intelligence) reveals positions and movements
-- Crowd-sourced mapping creates transparent battlefield
-- Flight tracking technology removes strategic surprise
-- Network topology enables self-organizing information flows
-
-**Conflict Impact:**
-- Degrades command and control
-- Forces premature or delayed decisions
-- Reveals strategic intentions
-- Creates information asymmetry
-
-**Example Events:**
-- Avdiivka encirclement reports (RU_001)
-- Kursk raid OSINT reporting (RU_002)
-- Iranian drone tracking (UI_002)
+**Примеры событий:**
+- Документация событий в гуманитарной зоне (БВ_004)
+- Трансляция авиационного инцидента (ИР_004)
 
 ---
 
-### 3. POW/Surrender Channels / Каналы сдачи и пленения
+### 2. Дезориентация противника
 
-**Definition:** Media system creates communication pathways for capitulation, surrender, or prisoner exchange.
+**Описание:** Медиасистема создаёт информационную путаницу, вакуум или паралич принятия решений для противоборствующих сил.
 
-**Structural Features:**
-- Direct messaging platforms enable safe contact
-- Broadcast technology reaches isolated units
-- Social media creates visibility for surrender procedures
-- Platform architecture enables encrypted communication
+**Индикаторы:**
+- Раскрытие позиций или перемещений в реальном времени
+- Снижение эффекта стратегической неожиданности
+- Деградация командования и управления
+- Создание информационной асимметрии
+- Прозрачность поля боя на основе OSINT
 
-**Conflict Impact:**
-- Reduces resistance and casualties
-- Enables humanitarian outcomes
-- Creates negotiation leverage
-- Documents war crimes protections
+**Структурные характеристики:**
+- Передача данных в реальном времени (ADS-B, спутники, IoT)
+- Краудсорсинговые или коллаборативные разведывательные платформы
+- Архитектура открытых данных (трекеры полётов, картографические инструменты)
+- Самоорганизация сети (вирусная геолокация)
 
-**Note:** This category is underrepresented in current dataset due to sensitivity of documentation. Requires further research.
-
----
-
-### 4. Societal Mobilization / Мобилизация общества
-
-**Definition:** Media system engages domestic audience, affects morale, recruitment, and support for war effort.
-
-**Structural Features:**
-- State-controlled channels enable direct communication
-- Social media algorithms amplify nationalist content
-- Platform architecture enables rapid emotional contagion
-- Broadcast infrastructure reaches remote areas
-
-**Conflict Impact:**
-- Affects recruitment numbers
-- Shapes domestic political support
-- Influences economic mobilization
-- Creates social cohesion or division
-
-**Example Events:**
-- Hamas Telegram broadcasts (PI_001)
-- IRGC-affiliated channels (UI_001)
-- Syrian opposition social media (UI_005)
+**Примеры событий:**
+- Публикация данных о событиях в Авдеевке (СВО_001)
+- OSINT-отчётность о событиях в Курской области (СВО_002)
+- Отслеживание воздушных объектов (ИР_002)
 
 ---
 
-### 5. International Support Formation / Формирование международной поддержки
+### 3. Каналы сдачи / пленения
 
-**Definition:** Media system builds coalition of external actors through coverage, framing, and attention management.
+**Описание:** Медиасистема создаёт коммуникационные пути для капитуляции, сдачи в плен или обмена военнопленными.
 
-**Structural Features:**
-- International news networks create global visibility
-- Social media enables transnational activism
-- Algorithmic amplification prioritizes certain narratives
-- Livestreaming technology maintains sustained attention
+**Индикаторы:**
+- Документация процедур сдачи
+- Коммуникация о безопасном проходе
+- Видимость обращения с пленными
+- Информация о гуманитарных коридорах
 
-**Conflict Impact:**
-- Influences arms supplies and sanctions
-- Affects diplomatic negotiations
-- Shapes international public opinion
-- Creates or dissolves coalitions
+**Структурные характеристики:**
+- Платформы с шифрованной коммуникацией
+- Архитектура прямых сообщений
+- Трансляционный охват изолированных подразделений
+- Документация как механизм защиты
 
-**Example Events:**
-- Al Jazeera 24/7 Gaza coverage (PI_002)
-- ICJ proceedings livestream (PI_003)
-- #AllEyesOnRafah campaign (PI_005)
+**Примечание:** Данная категория недостаточно представлена в текущем датасете в связи с чувствительностью документации. Требует дальнейшего исследования.
 
 ---
 
-## Measurement Approach
+### 4. Мобилизация общества
 
-Each event is coded for:
-1. **Primary KPI category** (dominant influence mechanism)
-2. **Secondary KPI category** (if applicable)
-3. **Structural feature** (specific media system characteristic enabling influence)
-4. **Evidence quality** (verified, probable, speculative)
+**Описание:** Медиасистема вовлекает внутреннюю аудиторию, влияет на моральный дух, мобилизацию и политическую поддержку.
 
-## Limitations
+**Индикаторы:**
+- Усиление националистического контента
+- Мобилизационное сообщение
+- Фрейминг потерь или героизма
+- Формирование внутреннего политического дискурса
+- Апелляции к экономической мобилизации
 
-1. Attribution difficulty: isolating media influence from other factors
-2. Sample bias: documented events may overrepresent visible cases
-3. Temporal lag: influence effects may manifest after observation period
-4. Classification ambiguity: some events fit multiple categories
+**Структурные характеристики:**
+- Государственная трансляционная инфраструктура
+- Алгоритмическое усиление вовлекающего контента
+- Архитектура платформы, обеспечивающая эмоциональное заражение
+- Охват отдалённых или изолированных популяций
+
+**Примеры событий:**
+- Трансляция событий 7 октября 2023 года (БВ_001)
+- Каналы, аффилированные со структурами (ИР_001)
+- Социальные медиа в Сирии (ИР_005)
 
 ---
 
-*Framework version: 1.0 | Created: 2026-05-14*
+### 5. Формирование международной поддержки
+
+**Описание:** Медиасистема формирует коалицию внешних акторов через освещение, фрейминг и управление вниманием.
+
+**Индикаторы:**
+- Международное новостное освещение
+- Создание дипломатического давления
+- Обоснование санкций
+- Влияние на поставки вооружений
+- Построение или распад коалиций
+
+**Структурные характеристики:**
+- Архитектура международных новостных сетей
+- Трансграничный охват социальных медиа
+- Алгоритмическое международное усиление
+- Технология поддержания устойчивого внимания через прямые трансляции
+- Институциональная трансляционная инфраструктура (ООН, МУС)
+
+**Примеры событий:**
+- Круглосуточное освещение событий (БВ_002)
+- Прямая трансляция заседаний МУС (БВ_003)
+- Кампания #AllEyesOnRafah (БВ_005)
+
+---
+
+## Подход к измерению
+
+Каждое событие кодируется по:
+1. **Первичной категории KPI** (доминирующий механизм влияния)
+2. **Вторичной категории KPI** (при наличии)
+3. **Структурной характеристике** (конкретная черта медиасистемы, обеспечивающая влияние)
+4. **Качеству доказательств** (верифицировано, вероятно, спекулятивно)
+
+## Ограничения
+
+1. Сложность атрибуции: выделение медиавлияния среди прочих факторов
+2. Смещение выборки: документированные события могут перепредставлять видимые случаи
+3. Временной лаг: эффекты влияния могут проявляться после периода наблюдения
+4. Неоднозначность классификации: некоторые события подходят под несколько категорий
+
+---
+
+*Версия фреймворка: 1.0 | Создано: 14 мая 2026*

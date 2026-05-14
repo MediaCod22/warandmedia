@@ -1,66 +1,66 @@
-# Sampling Protocol / Протокол выборки
+# Протокол выборки
 
-## Unit of Analysis / Единица анализа
+## Единица анализа
 
-**Discrete media event** (дискретное медиасобытие) with identifiable influence on military, political, or diplomatic outcome of armed conflict.
+**Дискретное медиасобытие** с идентифицируемым влиянием на военный, политический или дипломатический исход вооружённого конфликта.
 
-Each unit records:
-1. **Media event** — what happened in the media system (publication, broadcast, viral spread, platform action)
-2. **Conflict event** — what happened in military/political/diplomatic sphere
-3. **Causal mechanism** — how media event influenced conflict event
-4. **Structural feature** — evidence that influence occurs through objective characteristics of media system (platform architecture, algorithms, network topology), not subjective intentions (propaganda, information operations)
+Каждая единица фиксирует:
+1. **Медиасобытие** — что произошло в медиасистеме (публикация, трансляция, вирусное распространение, действие платформы)
+2. **Конфликтное событие** — что произошло в военной / политической / дипломатической сфере
+3. **Каузальный механизм** — как медиасобытие повлияло на конфликтное событие
+4. **Структурная характеристика** — доказательство того, что влияние осуществляется через объективные характеристики медиасистемы (архитектура платформы, алгоритмы, сетевая топология), а не субъективные намерения (пропаганда, информационные операции)
 
-## Conflicts Covered
+## Конфликты в фокусе анализа
 
-| Conflict | Period | Database Focus |
-|----------|--------|---------------|
-| Russia-Ukraine | Oct 2023 – Mar 2026 | Telegram, OSINT, mass media |
-| Palestine-Israel | Oct 2023 – Mar 2026 | Al Jazeera, social media, NGOs |
-| USA-Iran / Middle East | Apr 2024 – Mar 2026 | State media, flight trackers, OSINT |
+| Конфликт | Период | Фокус анализа баз данных |
+|----------|--------|------------------------|
+| СВО | октябрь 2023 — март 2026 | Telegram, OSINT, масс-медиа |
+| Ближний Восток | октябрь 2023 — март 2026 | Al Jazeera, социальные медиа, НПО |
+| Иран — Запад / Ближний Восток | апрель 2024 — март 2026 | Государственные СМИ, трекеры полётов, OSINT |
 
-## Source Types
+## Типы источников
 
-| Type | Examples | Weight in Corpus |
-|------|----------|-----------------|
-| Academic databases | Google Scholar, CyberLeninka, eLibrary, Scopus | 15% |
-| Mass media | Reuters, BBC, Al Jazeera, NPR, CNN, NYT | 25% |
-| Think tanks | CSIS, RAND, Atlantic Council, FDD, ISD, ISW | 20% |
-| OSINT organizations | Bellingcat, CIT, DFR Lab | 15% |
-| International organizations | UN, ICC, WHO, UNHCR | 10% |
-| Press freedom monitors | CPJ, RSF, ECPMF | 5% |
-| Social media analytics | Telegram channels, X/TikTok/Meta reports | 10% |
+| Тип | Примеры | Доля в корпусе |
+|------|---------|---------------|
+| Академические базы данных | Google Scholar, CyberLeninka, eLibrary, Scopus | 15% |
+| Средства массовой информации | Reuters, BBC, Al Jazeera, NPR, CNN, NYT | 25% |
+| Аналитические центры | CSIS, RAND, Atlantic Council, ISW | 20% |
+| OSINT-организации | Bellingcat, CIT, DFR Lab | 15% |
+| Международные организации | ООН, МУС, ВОЗ, УВКБ ООН | 10% |
+| Мониторы свободы прессы | CPJ, RSF, ECPMF | 5% |
+| Аналитика социальных медиа | Telegram-каналы, отчёты X / TikTok / Meta | 10% |
 
-## Temporal Boundaries
+## Временные границы
 
-- **Start:** October 2023 (escalation in Gaza becomes catalyst for global attention)
-- **End:** March 2026
-- **Rationale:** October 2023 marks qualitative shift in media-ization of armed conflict
+- **Начало:** октябрь 2023 (эскалация на Ближнем Востоке становится катализатором глобального внимания)
+- **Окончание:** март 2026
+- **Обоснование:** октябрь 2023 маркирует качественный сдвиг в медиа-изации вооружённых конфликтов
 
-## Inclusion Criteria
+## Критерии включения
 
-1. Event occurred within specified temporal boundaries
-2. Media event is publicly documented (verifiable source)
-3. Conflict event is militarily, politically, or diplomatically significant
-4. Causal mechanism between media and conflict events is traceable
-5. Evidence of structural (not only agent) influence is present
+1. Событие произошло в установленных временных границах
+2. Медиасобытие публично документировано (верифицируемый источник)
+3. Конфликтное событие имеет военное, политическое или дипломатическое значение
+4. Каузальный механизм между медиа и конфликтным событием прослеживаем
+5. Присутствуют доказательства структурного (не только агентского) влияния
 
-## Exclusion Criteria
+## Критерии исключения
 
-1. Events without verifiable source
-2. Pure propaganda/information operations without structural component
-3. Events where media played only passive reporting role
-4. Classified or restricted information
-5. Graphic or violent content without analytical value
+1. События без верифицируемого источника
+2. Чистая пропаганда / информационные операции без структурного компонента
+3. События, где медиа играли только пассивную роль освещения
+4. Секретная или ограниченная информация
+5. Графический или насильственный контент без аналитической ценности
 
-## Sample Size
+## Объём выборки
 
-Total documented events: **15**
-- Russia-Ukraine: **5**
-- Palestine-Israel: **5**
-- USA-Iran/Middle East: **5**
+Всего документированных событий: **15**
+- СВО: **5**
+- Ближний Восток: **5**
+- Иран — Запад / Ближний Восток: **5**
 
-Sample is illustrative rather than exhaustive, designed to demonstrate structural influence mechanisms.
+Выборка является иллюстративной, а не исчерпывающей, предназначена для демонстрации механизмов структурного влияния.
 
 ---
 
-*Protocol version: 1.0 | Created: 2026-05-14*
+*Версия протокола: 1.0 | Создано: 14 мая 2026*
