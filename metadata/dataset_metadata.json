@@ -1,0 +1,96 @@
+{
+  "title": "Media System as a Victory Factor in Armed Conflict",
+  "creator": {
+    "name": "Vodopetov Sergey Vyacheslavovich",
+    "affiliation": "RUDN University, Moscow",
+    "orcid": "0000-0002-5237-4464",
+    "rsci_id": "835749",
+    "spin": "5530-2581"
+  },
+  "date_created": "2026-05-14",
+  "date_modified": "2026-05-14",
+  "version": "1.0.0",
+  "description": "Open Science dataset documenting media events as structural factors in armed conflicts (2023-2026). Covers Russia-Ukraine, Palestine-Israel, and USA-Iran/Middle East conflicts with KPI framework of media influence.",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "media system",
+    "armed conflict",
+    "war journalism",
+    "OSINT",
+    "information operations",
+    "military communications",
+    "open science",
+    "decision support"
+  ],
+  "language": "en",
+  "spatial_coverage": [
+    "Ukraine",
+    "Russia",
+    "Palestine",
+    "Israel",
+    "Iran",
+    "Syria",
+    "Middle East"
+  ],
+  "temporal_coverage": {
+    "start": "2023-10-01",
+    "end": "2026-03-31"
+  },
+  "variables": [
+    {
+      "name": "event_id",
+      "description": "Unique identifier for event",
+      "type": "string"
+    },
+    {
+      "name": "conflict",
+      "description": "Conflict name",
+      "type": "categorical"
+    },
+    {
+      "name": "date",
+      "description": "Event date",
+      "type": "date"
+    },
+    {
+      "name": "media_event",
+      "description": "What happened in media system",
+      "type": "string"
+    },
+    {
+      "name": "conflict_event",
+      "description": "What happened in military/political sphere",
+      "type": "string"
+    },
+    {
+      "name": "kpi_category",
+      "description": "Primary KPI category (1-5)",
+      "type": "integer"
+    },
+    {
+      "name": "mechanism",
+      "description": "Causal mechanism linking media and conflict",
+      "type": "string"
+    },
+    {
+      "name": "structural_feature",
+      "description": "Media system structural characteristic enabling influence",
+      "type": "string"
+    },
+    {
+      "name": "source_type",
+      "description": "Type of source",
+      "type": "categorical"
+    },
+    {
+      "name": "verification_status",
+      "description": "Evidence quality",
+      "type": "categorical"
+    }
+  ],
+  "related_publications": [
+    "Водопетов С.В. Медиасистема как фактор победы в современном военном конфликте: парадокс недооценки и инструментализация коммуникаций // [Журнал]. — 2025."
+  ],
+  "funding": "Self-funded research",
+  "repository_url": "https://github.com/MediaCod22/warandmedia"
+}
