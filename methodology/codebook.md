@@ -134,7 +134,7 @@
 | A | Академический | Google Scholar, CyberLeninka, Scopus |
 | M | Масс-медиа | Reuters, BBC, Al Jazeera, CNN |
 | T | Аналитический центр | CSIS, RAND, ISW, Atlantic Council |
-| O | OSINT | Bellingcat, CIT, DFR Lab, DeepStateMap |
+| O | OSINT | Bellingcat, CIT, DFR Lab |
 | I | Международная организация | ООН, МУС, ВОЗ, УВКБ ООН |
 | N | НПО / монитор | CPJ, RSF, WCK, Amnesty |
 | S | Социальные медиа | Telegram, X, TikTok, Instagram |

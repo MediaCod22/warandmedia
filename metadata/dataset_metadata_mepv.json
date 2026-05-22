@@ -1,0 +1,34 @@
+{
+  "title": "MEDIN/MEPV-KPI Framework: Open Science Research Package for War and Media",
+  "repository": "https://github.com/MediaCod22/warandmedia",
+  "author": "Сергей Вячеславович Водопетов",
+  "version": "v1.0.0-submission-package",
+  "date_created": "2026-05-22",
+  "language": [
+    "ru",
+    "en"
+  ],
+  "license_recommendation": {
+    "text_and_codebook": "CC BY 4.0",
+    "code": "MIT",
+    "data": "CC BY 4.0 with DATA_USE.md restrictions"
+  },
+  "observation_period": "12 месяцев (2024–2025)",
+  "total_records_initial": 2340,
+  "total_MEPV": 315,
+  "total_episode_clusters": 46,
+  "total_conflicts": 6,
+  "sensitive_data_policy": "As open as possible, as closed as necessary. No personal data, exact vulnerable locations, private identifiers, or operationally sensitive details are published.",
+  "files": {
+    "data/raw/selection_process.json": "Source JSON uploaded by author: three-stage selection process.",
+    "data/raw/episodes_analysis.json": "Source JSON uploaded by author: cross-conflict episode matrix.",
+    "data/processed/selection_process.csv": "Flattened selection process and exclusion reasons.",
+    "data/processed/episodes_matrix.csv": "Episode type by conflict matrix.",
+    "methodology/codebook_mepv.md": "Variable definitions and coding rules.",
+    "methodology/sampling_protocol_mepv.md": "PRISMA-compatible selection procedure.",
+    "methodology/kpi_framework_mepv.md": "MEPV-KPI categories and mechanisms.",
+    "methodology/ethics.md": "Ethics and harm minimization protocol.",
+    "methodology/reproducibility.md": "How to reproduce tables.",
+    "repo_updates/README_MEPV_section.md": "Ready-to-paste README section synchronized with existing repo."
+  }
+}

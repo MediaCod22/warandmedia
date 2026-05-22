@@ -2,14 +2,14 @@ cff-version: 1.2.0
 title: "Media System as a Victory Factor in Armed Conflict"
 message: "If you use this dataset, please cite it as below."
 type: dataset
-version: 1.0.0
+version: v1.0.0-submission-package
 authors:
   - family-names: "Vodopetov"
     given-names: "Sergey Vyacheslavovich"
     orcid: "https://orcid.org/0000-0002-5237-4464"
 year: 2026
 repository-code: "https://github.com/MediaCod22/warandmedia"
-abstract: "Open Science dataset documenting media events as structural factors in armed conflicts (2023-2026). Covers Russia-Ukraine, Palestine-Israel, and USA-Iran/Middle East conflicts with KPI framework of media influence."
+abstract: "Open Science dataset documenting media events as structural factors in armed conflicts (2023-2026). Covers SVO, Palestine-Israel, and USA-Iran/Middle East conflicts with KPI and MEPV research-package layers."
 keywords:
   - media system
   - armed conflict

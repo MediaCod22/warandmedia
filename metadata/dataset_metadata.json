@@ -8,9 +8,9 @@
     "spin": "5530-2581"
   },
   "date_created": "2026-05-14",
-  "date_modified": "2026-05-14",
-  "version": "1.0.0",
-  "description": "Open Science dataset documenting media events as structural factors in armed conflicts (2023-2026). Covers Russia-Ukraine, Palestine-Israel, and USA-Iran/Middle East conflicts with KPI framework of media influence.",
+  "date_modified": "2026-05-22",
+  "version": "v1.0.0-submission-package",
+  "description": "Open Science dataset documenting media events as structural factors in armed conflicts (2023-2026). Covers SVO, Palestine-Israel, and USA-Iran/Middle East conflicts with KPI framework of media influence.",
   "license": "CC-BY-4.0",
   "keywords": [
     "media system",
@@ -24,7 +24,7 @@
   ],
   "language": "en",
   "spatial_coverage": [
-    "Ukraine",
+    "Eastern Europe",
     "Russia",
     "Palestine",
     "Israel",

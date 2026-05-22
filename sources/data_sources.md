@@ -107,7 +107,7 @@ TITLE-ABS-KEY("OSINT" AND "military" AND "open source")
 10. Davis, S. Network Topology and Information Warfare // Strategic Studies Quarterly. — 2024.
 
 ### Отчёты аналитических центров
-11. ISW. Russia-Ukraine Conflict: Media and Information Environment. — 2024.
+11. ISW. Armed Conflict: Media and Information Environment. — 2024.
 12. RAND. Social Media in Modern Military Operations. — 2023.
 13. Atlantic Council. The Algorithmic Battlefield. — 2024.
 14. Bellingcat. OSINT Methods in Conflict Documentation. — 2023.
